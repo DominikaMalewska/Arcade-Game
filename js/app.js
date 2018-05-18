@@ -75,7 +75,7 @@ class Player {
 
 
 // create a new player
-const player = new Player(100,'images/char-boy.png');
+const player = new Player(100,'images/char-cat-girl.png');
 // array of all enemies
 const allEnemies = [
     new Enemy(63, 'images/enemy-bug.png'),
