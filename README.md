@@ -1,6 +1,7 @@
 Arcade Game
 
 Fourth project of Google Front-End Web Developer Nanodegree Scholarship at Udacity.
+Live version of the game:  https://dominikamalewska.github.io/Arcade-Game/
 
 How to Play
 
@@ -12,6 +13,8 @@ Description
 The game was based on the Udacity starter code https://github.com/udacity/frontend-nanodegree-arcade-game. I had to change the app.js file to make the game works and I have done it with Javascript ES6.
 
 Do you want to play?
+
+There is a live version of the game on the top of the page. You could also:
 
 -Download the repository:
 
